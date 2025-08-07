@@ -25,8 +25,6 @@ Nie wymaga instalacji zewnętrznych bibliotek.
 
 python aplikacja_lista_zakupow.py
 
-text
-
 3. Pojawi się okno listy zakupów z opcjami dodawania i usuwania produktów.
 
 ## Struktura projektu
